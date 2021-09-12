@@ -1,0 +1,17 @@
+{
+  "name": "hello-imba",
+  "scripts": {
+    "start": "imba -w server.imba",
+    "build": "imba build server.imba"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "imba": "^2.0.0-alpha.146"
+  },
+  "repository": "2kabhishek/hello-imba",
+  "description": "Hello world using imba!",
+  "version": "1.0.0",
+  "homepage": "https://github.com/2kabhishek/hello-imba",
+  "author": "Author Name (https://github.com/2kabhishek)",
+  "license": "ISC"
+}
