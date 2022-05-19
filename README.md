@@ -26,7 +26,7 @@
 <h3>Says hello to imba 🧑‍💻👋🏻</h3>
 
 <figure>
-  <img src= "https://raw.githubusercontent.com/2KAbhishek/hello-imba/main/images/screenshot.png" alt="hello-imba Demo" style="width:100%">
+  <img src= "images/screenshot.png" alt="hello-imba Demo" style="width:100%">
   <br/>
   <figcaption>hello-imba screenshot</figcaption>
 </figure>
